@@ -10,9 +10,6 @@ BASE_URL => http(s)://<ip/domaine>/api
 
 **JWT** contient id du joueur et username (ou displayname)  
 
-factorier en fonction de la requete http  
-Dire que si on part pas sur du REST pur, il faut le préciser qq part  
-
 ## Authentification  
 
 - /users (POST)  
