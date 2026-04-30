@@ -10,5 +10,24 @@
 - Que prévoyez-vous de réaliser à la **prochaine séance** ?
 - Aurez-vous **besoin rapidement d'assistance** pour vous débloquer sur un sujet ?
 
-## Séance 1
+## Séance 1 28/04/2026
+**Tâches réalisées**
+- Début conception.md
+- Début diagramme de classes
+- Début diagramme de séquence
 
+**Problèmes rencontrés**
+- Assimilier le concept de REST et l'appliquer au projet 
+
+**Approfondir**
+- Bonnes pratiques de conception
+- Faire un backend
+
+**Prochaine séance**
+- Terminer les éléments commencés
+
+**Assistance**
+- Pour la conception REST
+- Pour le backend
+
+## Séance 2 30/04/2026
