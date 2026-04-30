@@ -35,10 +35,6 @@ return : http_code
 params : current_password, new_password  
 return : http_code  
 
-<!-- - /users/me (GET) *Protected*  
-params : ?  
-return : http_code + user --> Inutile convention de nommage frameworks  
-
 - /users/{user_id} (GET) *Protected*  
 params : ?  
 return : http_code + user  
@@ -74,6 +70,10 @@ params : ?
 return : http_code  
 
 ## Déroulé partie *Protected*  
+
+- /games (GET)  
+params : ?
+return : http_code + liste parties en attente
 
 - /games/boats (GET)  
 params : ?  
